@@ -15,7 +15,7 @@
   }
 
   function getVerifiableVideoUrl(url) {
-      return url + " swfurl=" + "http://flvplayer.viastream.viasat.tv/flvplayer/play/swf/player100920.swf swfvfy=true";
+      return url + " swfurl=" + "http://flvplayer.viastream.viasat.tv/flvplayer/play/swf/player110516.swf swfvfy=true";
   }
 
   function startPage(page) {      
